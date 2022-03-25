@@ -1,1 +1,1 @@
-# RByExample
+# Basics of Coding R
